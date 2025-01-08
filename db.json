@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 75000,
+        "description": "A high-performance laptop.",
+        "image": "/images/laptop.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Headphones",
+        "price": 2500,
+        "description": "Noise-cancelling headphones.",
+        "image": "/images/headphones.jpg"
+      }
+    ]
+  }
+  
