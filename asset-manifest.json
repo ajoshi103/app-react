@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-shoppingsite/static/css/main.0a05ba39.css",
-    "main.js": "/react-shoppingsite/static/js/main.ae262a2d.js",
-    "index.html": "/react-shoppingsite/index.html",
-    "main.0a05ba39.css.map": "/react-shoppingsite/static/css/main.0a05ba39.css.map",
-    "main.ae262a2d.js.map": "/react-shoppingsite/static/js/main.ae262a2d.js.map"
+    "main.css": "/https://react-shoppingsite.git/static/css/main.0a05ba39.css",
+    "main.js": "/https://react-shoppingsite.git/static/js/main.ae262a2d.js",
+    "index.html": "/https://react-shoppingsite.git/index.html",
+    "main.0a05ba39.css.map": "/https://react-shoppingsite.git/static/css/main.0a05ba39.css.map",
+    "main.ae262a2d.js.map": "/https://react-shoppingsite.git/static/js/main.ae262a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.0a05ba39.css",
