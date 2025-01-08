@@ -1,5 +1,6 @@
-{  "homepage": "https://ajoshi103.github.io/react-shoppingsite",
-  "name": "my-app",
+{
+  "homepage": "https://ajoshi103.github.io/https://react-shoppingsite.git",
+  "name": "some",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
